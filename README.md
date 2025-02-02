@@ -5,7 +5,7 @@
 
 🌱 Exploring intersections of **economics** and **technology**.  
 💡 Interested in **data analysis**, **AI-powered tools**, and simplifying complex ideas.  
-📚 Postgraduate in Economics | Assistant Professor | Lifelong Learner  
+📚 Postgraduate in Economics | Lifelong Learner  
 🚀 Building innovative projects like:  
 - 📊 **NXZO**: An AI-powered stock advisor for beginners in the Indian stock market.  
 - 📱 Attendance & study tracker apps to simplify education.  
